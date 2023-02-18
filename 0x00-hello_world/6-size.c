@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 
 /**
@@ -43,4 +42,3 @@ printf("Size of a long long int: %lu byte(s)\n", (unsigned long)sizeof(d));
 printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
 return (0);
 }
->>>>>>> 8c8c1fa9471dca061b63b545391589c92ca9e919
